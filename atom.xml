@@ -4,7 +4,7 @@
   <title><![CDATA[TQK's blog]]></title>
   <link href="http://tranquangkhai.github.io/atom.xml" rel="self"/>
   <link href="http://tranquangkhai.github.io/"/>
-  <updated>2015-07-25T23:33:18+09:00</updated>
+  <updated>2015-07-25T23:41:11+09:00</updated>
   <id>http://tranquangkhai.github.io/</id>
   <author>
     <name><![CDATA[Tran Quang Khai]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ML_textbook]]></title>
+    <title type="html"><![CDATA[A Machine Learning Textbook]]></title>
     <link href="http://tranquangkhai.github.io/blog/2015/07/25/ml-textbook/"/>
-    <updated>2015-07-25T23:26:27+09:00</updated>
+    <updated>2015-07-25T23:40:07+09:00</updated>
     <id>http://tranquangkhai.github.io/blog/2015/07/25/ml-textbook</id>
-    <content type="html"><![CDATA[<p>test</p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
