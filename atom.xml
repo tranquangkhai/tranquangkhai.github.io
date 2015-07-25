@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[TQK's learning diary]]></title>
+  <title><![CDATA[TQK's blog]]></title>
   <link href="http://tranquangkhai.github.io/atom.xml" rel="self"/>
   <link href="http://tranquangkhai.github.io/"/>
-  <updated>2015-07-25T23:14:48+09:00</updated>
+  <updated>2015-07-25T23:22:54+09:00</updated>
   <id>http://tranquangkhai.github.io/</id>
   <author>
     <name><![CDATA[Tran Quang Khai]]></name>
